@@ -1,0 +1,18 @@
+
+class main {
+	
+	public static void main(String[] args){
+		
+		System.out.println("hello world");
+		
+		
+	}
+
+}
+
+class HelloWorldApp2 {    
+	public static void main(String[] args) {
+		System.out.println("Hello Wooorld!"); // Display the string.
+				}
+	}
+	
